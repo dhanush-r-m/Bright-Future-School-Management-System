@@ -1,4 +1,4 @@
-{
+{{
   "name": "bright-future-school-management-system",
   "version": "1.0.0",
   "description": "A comprehensive school management system built with Node.js, Express.js, and MongoDB. This system manages four main user profiles: Students, Teachers, Parents, and Administrators.",
